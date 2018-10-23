@@ -8,7 +8,7 @@ will pick a random Nobel laureate.
 
 ### update the laureates
 
-``bash
+```bash
 bash get-nobel.sh
 ```
 
